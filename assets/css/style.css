@@ -239,17 +239,16 @@ section {
     font-size: 55px;
     display: inline-block;
     padding: 0 100px 20px 100px;
-    border-bottom: 3px solid;
+    border-bottom: 3px solid #39a6b2;
     margin-bottom: 35px;
     color: #024e76;
   }
   
-  /* REACH OUT STYLES START */
+ /* REACH OUT STYLES START */
 .contact {
   text-align: center;
   background: #024e76;
 }
-
 .contact h2 {
   color: #fce138;
 }
@@ -258,7 +257,6 @@ section {
   width: 400px;
   height: 400px;
 }
-
 .contact-info div {
   width: 410px;
   display: inline-block;
